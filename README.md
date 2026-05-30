@@ -1,10 +1,4 @@
-## Hi there 👋
-
-Here is a GitHub profile README template tailored for you. You can copy and paste this directly into your profile repository's `README.md` file, filling in the bracketed placeholders with your specific details.
-
----
-
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Mahi] 👋
 
 I'm a student diving deep into the world of software development and systems design. I love building practical projects and pushing myself to improve—both at the keyboard and in the gym.
 
