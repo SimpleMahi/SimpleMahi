@@ -1,4 +1,4 @@
-# Hi there, I'm [Mahi] 👋
+# Hi there, I'm Mahi 👋
 
 I'm a student diving deep into the world of software development and systems design. I love building practical projects and pushing myself to improve—both at the keyboard and in the gym.
 
