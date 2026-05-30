@@ -21,4 +21,3 @@ https://shields.io/
 
 My goal is to continue bridging the gap between low-level network communications and functional, user-facing applications. I aspire to become a versatile software engineer who builds robust, highly scalable systems while continuing to master Java and network architecture. I am always open to collaborating on open-source projects or innovative tech solutions that challenge me to learn something new!
 
--->
