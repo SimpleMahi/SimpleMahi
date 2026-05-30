@@ -15,7 +15,6 @@ I'm a student diving deep into the world of software development and systems des
 * **Core Concepts:** Computer Networking, Object-Oriented Programming (OOP), Data Encoding.
 * **Development Tools:** [e.g., IntelliJ IDEA, VS Code, Git, GitHub]
 * **Currently Exploring:** Advanced network protocols, data scrambling.
-https://shields.io/
 
 ## 🌱 Aspirations
 
